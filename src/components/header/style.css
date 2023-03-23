@@ -1,7 +1,26 @@
-.nav-link a {
-    color:white;
+/** @format */
+
+.my-nav {
+  height: 10rem;
 }
 
-.navbar-brand {
-    color:white;
+.my-nav-links {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-end;
+}
+
+#my-links {
+  text-decoration: none;
+  color: white;
+}
+
+#my-links:hover {
+  color: yellow;
+  border: 1px solid yellow;
+  padding: 0.3rem;
+}
+
+#my-links:focus {
+  color: yellow;
 }
