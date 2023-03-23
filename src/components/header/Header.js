@@ -17,7 +17,6 @@ function Header() {
               <Link to="/planner">Planner</Link>
             </Nav.Link>
             <Nav.Link>
-              {" "}
               <Link to="/meetings">Meetings</Link>
             </Nav.Link>
           </Nav>

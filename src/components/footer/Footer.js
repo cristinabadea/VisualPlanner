@@ -1,5 +1,6 @@
 /** @format */
 import { Container, Nav, Navbar } from "react-bootstrap";
+import { Link } from "react-router-dom";
 import "../footer/style.css";
 
 function Footer() {
