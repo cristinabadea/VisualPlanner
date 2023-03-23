@@ -1,0 +1,10 @@
+/** @format */
+.card-footer {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+.card-footer .my-icon {
+  margin: 1rem;
+  width: 1.5em;
+}
