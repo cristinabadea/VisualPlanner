@@ -1,70 +1,88 @@
-# Getting Started with Create React App
+<!-- @format -->
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Visual Planner
 
-## Available Scripts
+## Description
 
-In the project directory, you can run:
+This is a simple web application that allows you to create, view, update, and delete tasks in a planner. It is built using React, a popular javaScript library for building user interfaces.
 
-### `npm start`
+## Installation
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+To install the appplication, clone the repository and run the following command in the terminal
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+npm install
 
-### `npm test`
+This will install all the required dependencies.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## Usage
 
-### `npm run build`
+To start the application, run the following command in the terminal
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+npm start
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+This will start the application and open it in your default web browser at
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+Once you have the app running you can add tasks
 
-### `npm run eject`
+![mainPhoto]
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-## Learn More
+Link to Deployed Site :
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+## Requirements
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+- Use React.
 
-### Code Splitting
+- Use Node.js
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+- Have both GET and GET routes for retrieving and adding new data.
 
-### Analyzing the Bundle Size
+- Be deployed using Netlify.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+- Use at least two libraries, packages, or technologies that we haven't discussed.
 
-### Making a Progressive Web App
+- Have a polished front end/UI.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+- Meet good quality coding standards (indentation, scoping, naming).
 
-### Advanced Configuration
+- Have a quality README (with unique name, description, technologies used, screenshot, and link to deployed application).
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+## The language used:
 
-### Deployment
+- HTML
+- JavaScript
+- CSS
+- React
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+## How to use it
 
-### `npm run build` fails to minify
+- Open the app.
+- In the search bar type in the title of the m.
+- A modal will pop up with the searched movie.
+- Choose from the two options:
+- Add the movie to the list, or
+- Watch the trailer
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+## Authors
+
+- [Aliya ladha](https://github.com/)
+- [Oluwatayo Hassan](https://github.com/BABATEES)
+- [Tina Georgescu](https://github.com/cristinabadea)
+- [Raji Labana](https://github.com/lotussi)
+
+## Credits
+
+- Calendar API
+
+## Licence
+
+- MIT License
