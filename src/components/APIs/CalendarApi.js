@@ -41,7 +41,7 @@ function CalendarAPI() {
   };
   return (
     <div>
-      Hello Calendar
+      Welcome to
       <Todo
         onClick={getCalendar}
         hours={time.hours}
